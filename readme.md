@@ -10,6 +10,6 @@
 
 _doge_
 
-!(https://s.yimg.com/uu/api/res/1.2/YZm09rmYAom4ZvicvpF0jg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/Benzinga/a4c6ddbc1e371f64ded891dab1ca8a2b)
+!(https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Fdoge&psig=AOvVaw2XiEQrI00K9Vbx7vUljCAf&ust=1646841094856000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjHjIPwtvYCFQAAAAAdAAAAABAJ)
 
 
