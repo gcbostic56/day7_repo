@@ -10,6 +10,6 @@
 
 _doge_
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Fdoge&psig=AOvVaw2XiEQrI00K9Vbx7vUljCAf&ust=1646841094856000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjHjIPwtvYCFQAAAAAdAAAAABAJ)
+![](https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Fmobile%2F000%2F013%2F564%2Fdoge.jpg)
 
 
