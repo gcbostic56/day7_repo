@@ -18,3 +18,6 @@ _doge_
 
 Hello!
 >>>>>>> ac416a00275f14a5de503acb83f438da6baf40cd
+
+
+>This is an inspirational quote. Be inspired now. 
